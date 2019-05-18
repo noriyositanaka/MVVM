@@ -73,9 +73,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-        ClearDBAsync clearDBAsync = new ClearDBAsync();
-        clearDBAsync.execute(application);
+//        ClearDBAsync clearDBAsync = new ClearDBAsync();
+//        clearDBAsync.execute(application);
 
     }
 
